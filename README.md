@@ -53,7 +53,7 @@ Here is the generated image through different intervals of the run.
 
 ### Transition through epochs
 
-![Transition](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Output/Animation/nbst_annimation.gif)
+![Transition](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Output/Animation/nbst_animation.gif)
 
 ### Result of Style Transfer
 
@@ -75,3 +75,5 @@ Here is the generated image through different intervals of the run.
 * **Leon A. Gaty's** paper, [*A Neural Algorithm of Artistic Style*](https://arxiv.org/abs/1508.06576)
 * **Liang-Chieh Chen's** paper, [*Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation*](https://arxiv.org/pdf/1802.02611.pdf)
 * Project makes use of the [*Pre-trained DeepLabv3+ Model*](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb#scrollTo=aUbVoHScTJYe) by Google
+* Content Image: Scraped from Google Image Search, [*Aila Images*](https://www.shutterstock.com/video/search?contributor=Aila+Images)
+* Style Image: The Scream by Edvard Munch, [*The Scream*](https://en.wikipedia.org/wiki/The_Scream)
