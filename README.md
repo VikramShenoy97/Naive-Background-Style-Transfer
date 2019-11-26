@@ -53,7 +53,7 @@ Here is the generated image through different intervals of the run.
 
 ### Transition through epochs
 
-![Transition](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Output/Animation/nbst_annimation.gif)
+![Transition](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Output/Animation/nbst_animation.gif)
 
 ### Result of Style Transfer
 
