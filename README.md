@@ -34,14 +34,10 @@ pip install imageio
 
 ### Images
 
-#### Content Image - An image scraped off the Internet.
 
-![Content_Image](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Input_Images/portrait.jpg)
-
-#### Style Image - The Scream by Edvard Much.
-
-![Style_Image](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Input_Images/scream.jpg)
-
+**Content Image**       |  **Style Image**
+:-------------------------:|:-------------------------:
+![Original](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Input_Images/portrait.jpg)  |  ![Style](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Input_Images/scream.jpg)
 
 ### Run
 
