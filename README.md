@@ -10,7 +10,7 @@ Naive background style transfer performs style transfer only on the background o
 
 The above architecture shows how the algorithm works and creates the resulting output image.
 
-The picture below is of me taken on my trip to Amsterdam in the style of one of my pieces of art, Starry Night by Vincent Van Gogh.
+The picture below is of me taken on my trip to Amsterdam in the style of one of my pieces of art, *The Starry Night* by Vincent Van Gogh.
 
 Original Image        |  Result of Naive Background Style Transfer
 :-------------------------:|:-------------------------:
@@ -82,3 +82,4 @@ Here is the generated image through different intervals of the run.
 * Project makes use of the [*Pre-trained DeepLabv3+ Model*](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb#scrollTo=aUbVoHScTJYe) by Google
 * Content Image: Scraped from Google Image Search, [*Aila Images*](https://www.shutterstock.com/video/search?contributor=Aila+Images)
 * Style Image: The Scream by Edvard Munch, [*The Scream*](https://en.wikipedia.org/wiki/The_Scream)
+* Style Image: Starry Night by Vincent Van Gogh, [*The Starry Night*](https://en.wikipedia.org/wiki/The_Starry_Night)
