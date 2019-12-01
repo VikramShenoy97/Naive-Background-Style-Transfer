@@ -12,7 +12,7 @@ The above architecture shows how the algorithm works and creates the resulting o
 
 The picture below is of me taken on my trip to Amsterdam.
 
-![Content](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/Shen.jpg)
+![Content](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/shen.jpg)
 
 
 The picture displayed here is the result of Naive Background Style Transfer in the style of one of my pieces of art, *The Starry Night* by Vincent Van Gogh.
