@@ -10,7 +10,13 @@ Naive background style transfer performs style transfer only on the background o
 
 The above architecture shows how the algorithm works and creates the resulting output image.
 
-The picture below is of me taken on my trip to Amsterdam in the style of one of my pieces of art, *The Starry Night* by Vincent Van Gogh.
+The picture below is of me taken on my trip to Amsterdam.
+
+![Content](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/Shen.jpg)
+
+
+The picture displayed here is the result of Naive Background Style Transfer in the style of one of my pieces of art, *The Starry Night* by Vincent Van Gogh.
+
 
 ![Style_Transfer](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/Style_Transfer.jpg)
 
