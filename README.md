@@ -12,10 +12,10 @@ The above architecture shows how the algorithm works and creates the resulting o
 
 The picture below is of me taken on my trip to Amsterdam.
 
-![Content](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/Shen.jpg)
+![Content](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/shen.jpg)
 
 
-The picture displayed here is the result of Naive Background Style Transfer in the style of one of my pieces of art, *The Starry Night* by Vincent Van Gogh.
+The picture displayed here is the result of Naive Background Style Transfer in the style of one of my favorite pieces of art, *The Starry Night* by Vincent Van Gogh.
 
 
 ![Style_Transfer](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/Style_Transfer.jpg)
@@ -81,7 +81,7 @@ Here is the generated image through different intervals of the run.
 
 ## Acknowledgments
 
-* **Leon A. Gaty's** paper, [*A Neural Algorithm of Artistic Style*](https://arxiv.org/abs/1508.06576)
+* **Leon A. Gatys's** paper, [*A Neural Algorithm of Artistic Style*](https://arxiv.org/abs/1508.06576)
 * **Liang-Chieh Chen's** paper, [*Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation*](https://arxiv.org/pdf/1802.02611.pdf)
 * Project makes use of the [*Pre-trained DeepLabv3+ Model*](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb#scrollTo=aUbVoHScTJYe) by Google
 * Content Image: Scraped from Google Image Search, [*Aila Images*](https://www.shutterstock.com/video/search?contributor=Aila+Images)
