@@ -41,7 +41,7 @@ pip install imageio
 
 **Content Image**       |  **Style Image**
 :-------------------------:|:-------------------------:
-![Original](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Input_Images/portrait.jpg)  |  ![Style](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Input_Images/scream.jpg)
+![Original](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Input_Images/Content/portrait.jpg)  |  ![Style](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Input_Images/Style/scream.jpg)
 
 ### Run
 
