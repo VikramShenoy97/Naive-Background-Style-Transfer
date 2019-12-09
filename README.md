@@ -4,7 +4,7 @@ Naive Background Style Transfer implemented using Keras and TensorFlow by Vikram
 
 ## Overview
 
-Naive background style transfer performs style transfer only on the background of the given content image. This naive approach uses two networks to reproduce this style transfer. The DeepLabv3+ model generates a segmentation map of the image which is processed to create a binary mask highlighting the foreground from the background. The style transfer model uses this segmented mask to guide the stylized pixels only onto the background of the given content image.
+Naive background style transfer performs style transfer only on the background of the given content image. This naive approach uses two networks to reproduce this style transfer. The DeepLabv3+ model generates a segmentation map of the image which is processed to create a binary mask highlighting the foreground from the background. The style transfer model uses this segmented mask to guide the stylized pixels only onto the background of the given content image. For more details, check out the report.
 
 ![Architecture](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/Architecture.png)
 
