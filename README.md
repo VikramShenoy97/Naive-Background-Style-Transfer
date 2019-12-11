@@ -77,6 +77,8 @@ This section takes a closer look at the hyperparameters of NBST, mainly the cont
 
 
 • Style Weight = 1e-2
+
+
 ![default](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/Style_Transfer.jpg)
 
 
@@ -85,6 +87,8 @@ This section takes a closer look at the hyperparameters of NBST, mainly the cont
 
 
 • Style Weight = 1e-2
+
+
 ![content_increase](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/cw1e10.jpg)
 
 
@@ -93,6 +97,8 @@ This section takes a closer look at the hyperparameters of NBST, mainly the cont
 
 
 • Style Weight = 1e15
+
+
 ![style_increase](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/sw1e15.jpg)
 
 
