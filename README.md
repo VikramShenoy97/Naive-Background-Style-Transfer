@@ -73,20 +73,26 @@ Here is the generated image through different intervals of the run.
 This section takes a closer look at the hyperparameters of NBST, mainly the content weight and the style weight.
 
 ### Default Parameters
-Content Weight = 1e3
-Style Weight = 1e-2
+• Content Weight = 1e3
+
+
+• Style Weight = 1e-2
 ![default](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/Style_Transfer.jpg)
 
 
 ### High Content Weight
-Content Weight = 1e10
-Style Weight = 1e-2
+• Content Weight = 1e10
+
+
+• Style Weight = 1e-2
 ![content_increase](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/cw1e10.jpg)
 
 
 ### High Style Weight
-Content Weight = 1e3
-Style Weight = 1e15
+• Content Weight = 1e3
+
+
+• Style Weight = 1e15
 ![style_increase](https://github.com/VikramShenoy97/Naive-Background-Style-Transfer/blob/master/Media/sw1e15.jpg)
 
 
